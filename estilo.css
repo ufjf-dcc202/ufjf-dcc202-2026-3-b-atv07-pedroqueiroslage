@@ -1,0 +1,14 @@
+em {
+    color: blueviolet;
+}
+
+code {
+    color: darkred;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body>main>dl>div:nth-child(2)>dt>code {
+    color: white;
+    background-color: blue;
+}
